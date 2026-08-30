@@ -164,4 +164,5 @@ offsetY = -(sourceY - 1)
 
 ## Texture Export Settings
 .dds贴图文件建议使用这个设置导出
-<img width="504" height="565" alt="30f2be16-0bf4-4761-b01f-aace383d9bc3" src="https://github.com/user-attachments/assets/838c14fc-2959-4348-a47a-54ee6185905d" />
+<img width="504" height="565" alt="977be614-4bc5-42e0-9c59-36ec3f034f85" src="https://github.com/user-attachments/assets/0137702a-f011-48f0-a236-3c20fe796219" />
+
